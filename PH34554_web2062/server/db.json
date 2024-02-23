@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 12 3333456",
+      "image": "https://i.pinimg.com/736x/56/86/03/568603cbd1860c67bf8f6776cbe7f885.jpg",
+      "cat_id": "3",
+      "price": "1000033333",
+      "id": "8ac5"
+    }
+  ], 
+  "user": [
+    {
+        "id": 1,
+        "uname": "admin",
+        "pass": "123456"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 12",
+      "image": "https://shopbanphim.com/wp-content/uploads/2023/12/anh-gai-dep-de-thuong.jpg",
+      "cat_id": "1",
+      "price": "600",
+      "id": "c0f7"
+    }
+  ]
+}
